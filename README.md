@@ -2,7 +2,7 @@
 
 **Repository Status:** Not yet publicly available.
 
-This repository contains the implementation of **RAMoEN**, as described in our upcoming paper.  
+This repository contains the implementation of **RAMoE**, as described in our upcoming paper.  
 
 ## Note
 
