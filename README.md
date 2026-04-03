@@ -1,17 +1,43 @@
-# RAMoE
+# [TGRS'2026] Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion
 
-**Repository Status:** Not yet publicly available.
+> **Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion** [[Paper]]((https://ieeexplore.ieee.org/document/11471838))
+>
+> Nan Xiao, Xiyou Fu, [Qi Ren](https://github.com/renqi1998), [Wangquan He](https://github.com/Hewq77), Siqi Wei, [Sen Jia†](https://scholar.google.com/citations?user=UxbDMKoAAAAJ&hl=zh-CN&oi=ao)
+>
+> College of Computer Science and Software Engineering, Shenzhen University
 
-This repository contains the implementation of **RAMoE**, as described in our upcoming paper.  
+## ⚙️ Environment
+```
+conda create -n aelf python=3.9.19
+conda activate RAMoE
+pip install -r requirements.txt
+```
+## 🛫 Usage
+1.  **Datasets setting**
+   - Download  Datasets : [WDCM](https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html) / [Chikusei](https://naotoyokoya.com/Download.html). / [Xiongan]()
 
-## Note
+2.  **Training**
+ ```
+ CUDA_VISIBLE_DEVICES=0 
+ python train.py  \
+```
 
-The code is currently **private** and will be **publicly released after the paper is accepted**. At that time, we will provide detailed instructions, example scripts, and datasets for reproduction.  
+3.  **Inference**
+```
+set train_test in train.py as 0 \
+python train.py  \
+```
 
-## Citation
+## 🎓 Citations
+Please cite us if our work is useful for your research.
+```
+@ARTICLE{Xiao2026RAMoE,
+  author={Xiao, Nan and Fu, Xiyou and Ren, Qi and He, Wangquan and Wei, Siqi and Jia, Sen},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-1},
+}
 
-If you are interested in this work, please refer to the paper once it is published.  
-
----
-
-We appreciate your understanding and interest in our research.
