@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 ## 🛫 Usage
 1.  **Datasets setting**
-   - Download  Datasets : [WDCM](https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html) / [Chikusei](https://naotoyokoya.com/Download.html). / [Xiongan]()
+   - Download  Datasets : [WDCM](https://engineering.purdue.edu/~biehl/MultiSpec/hyperspectral.html) / [Chikusei](https://naotoyokoya.com/Download.html) / [Xiongan]()
 
 2.  **Training**
  ```
