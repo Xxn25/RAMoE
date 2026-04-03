@@ -2,7 +2,7 @@
 
 > **Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion** [[Paper]]((https://ieeexplore.ieee.org/document/11471838))
 >
-> Nan Xiao, Xiyou Fu, [Qi Ren](https://github.com/renqi1998), [Wangquan He](https://github.com/Hewq77), Siqi Wei, [Sen Jia†](https://scholar.google.com/citations?user=UxbDMKoAAAAJ&hl=zh-CN&oi=ao)
+> Nan Xiao, Xiyou Fu†, [Qi Ren](https://github.com/renqi1998), [Wangquan He](https://github.com/Hewq77), Siqi Wei, [Sen Jia](https://scholar.google.com/citations?user=UxbDMKoAAAAJ&hl=zh-CN&oi=ao)
 >
 > College of Computer Science and Software Engineering, Shenzhen University
 
