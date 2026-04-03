@@ -8,7 +8,7 @@
 
 ## ⚙️ Environment
 ```
-conda create -n aelf python=3.9.19
+conda create -n RAMoE python=3.9.19
 conda activate RAMoE
 pip install -r requirements.txt
 ```
