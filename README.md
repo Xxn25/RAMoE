@@ -36,8 +36,8 @@ Please cite us if our work is useful for your research.
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
   title={Region-Aware MoE Network for Hyperspectral and Multispectral Image Fusion}, 
   year={2026},
-  volume={},
+  volume={64},
   number={},
-  pages={1-1},
+  pages={1-15},
 }
 
